@@ -1,0 +1,17 @@
+.meal {
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+.weight {
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+.fa-cutlery {
+  color: blue;
+}
+
+.fa-balance-scale {
+  color: green;
+}
