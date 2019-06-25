@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fuze-health-tracker/precache-manifest.7c2ed1965de2c2756af063e7de1eefd7.js"
+  "/fuze-health-tracker/precache-manifest.62b686352a420dcec1711d210ba6d800.js"
 );
 
 self.addEventListener('message', (event) => {

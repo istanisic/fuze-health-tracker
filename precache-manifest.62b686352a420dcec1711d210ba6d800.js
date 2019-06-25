@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "539fe744ac353e8d58bae23f98d8cd9f",
+    "revision": "4cfc3eec925588247be20c34ab61dbb9",
     "url": "/fuze-health-tracker/index.html"
   },
   {
-    "revision": "3a9066f571bccc29369a",
-    "url": "/fuze-health-tracker/static/css/2.56d3a578.chunk.css"
+    "revision": "e7f81528a629b7d0fc8c",
+    "url": "/fuze-health-tracker/static/css/2.24cc53a4.chunk.css"
   },
   {
-    "revision": "93bc3a142896c298b68b",
-    "url": "/fuze-health-tracker/static/css/main.bf961605.chunk.css"
+    "revision": "bb0d117f2fba80cc0e59",
+    "url": "/fuze-health-tracker/static/css/main.e795e834.chunk.css"
   },
   {
-    "revision": "3a9066f571bccc29369a",
-    "url": "/fuze-health-tracker/static/js/2.4be64cff.chunk.js"
+    "revision": "e7f81528a629b7d0fc8c",
+    "url": "/fuze-health-tracker/static/js/2.18fb761d.chunk.js"
   },
   {
-    "revision": "93bc3a142896c298b68b",
-    "url": "/fuze-health-tracker/static/js/main.14133640.chunk.js"
+    "revision": "bb0d117f2fba80cc0e59",
+    "url": "/fuze-health-tracker/static/js/main.423f4147.chunk.js"
   },
   {
     "revision": "8fa626278ea79a41cdd6",
